@@ -1,8 +1,7 @@
-$red:#ff0000
+$red:#ff0000;
 
 $white: #fff;
-$black:#000000;
+$black: #000000;
 
-// font families
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 $open-sans: 'Open Sans', sans-serif;
