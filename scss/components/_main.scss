@@ -7,6 +7,12 @@ html {
 	box-sizing: inherit;
 }
 
+h1{
+  position: absolute;
+  left: 2em;
+  color: $red;
+}
+
 #menu{
     width: 100%;
     padding:10px 0 0 0;
@@ -17,6 +23,7 @@ html {
     float: right;
     padding:0 50px 10px 0;
     position: relative;
+    top: 1.75em;
 }
 
 #menu a{
